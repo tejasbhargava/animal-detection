@@ -24,7 +24,7 @@ for monkey detection on the same dataset.
 
 ### 📈 Performance Metrics
 
-![Model Comparision](output/model_comp.jpg)
+![Model Comparision](output/model_comp.png)
 
 ### 🧠 Observations
 - YOLOv8s significantly outperforms YOLOv8n across all evaluation metrics.
